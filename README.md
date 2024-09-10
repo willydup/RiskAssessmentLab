@@ -1,6 +1,6 @@
 <h1>Risk Assessment for Botium Toys</h1>
 
-<h2>Scope & Goals</h2>
+<h2>Description</h2>
 Project consists of an internal audit of a fictional company, Botium Toys. The scope and goals of the audit were clearly defined alongside the current assets managed by the IT Department. A risk assessment was then conducted to determine adherence to compliance best practices and controls. The findings are below. 
 <br />
 
