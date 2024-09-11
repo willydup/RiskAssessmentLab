@@ -4,6 +4,10 @@
 Project consists of an internal risk assessment of a fictional company, Botium Toys, based on findings in the controls and compliance checklist. The scope and goals of the audit were clearly defined alongside the current assets managed by the IT Department. A risk assessment was then conducted to determine adherence to compliance best practices and controls. The findings are below. 
 <br />
 
+<h2>Scenario</h2>
+<img src="https://i.imgur.com/pK6NA3X.png" height="80%' width="80%"
+<br />
+
 <h2>Assessment Report:</h2>
 
 <p align="center">
